@@ -93,7 +93,7 @@ This file is required.
 | violation_date_closed | date | Yes | Date that the  violation was closed in YYYY-MM-DD format |
 | violation_category | string | Yes | Reporting agency must assign each locally defined violation type on one of the following categories in the OHHS list of violation categories |
 | violation_type | string | Yes | Locally defined violation type (bedbugs, mold, etc) |
-| violation_notes | string | No | Notes pertaining to the inpsection |
+| violation_notes | string | No | Notes pertaining to the inspection |
 | violation_severity | string | No | Must be one of the following three categories: high (imminently harmful to health and requires rapid correction) and low (nuisance with correction over a reasonable period of time) |
 | legal_authority | string | No | The legal authority under which a violation is issued.  For example, NYC Housing Maintenance Code or the California Health and Safety Code |
 
