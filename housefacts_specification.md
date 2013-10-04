@@ -149,7 +149,7 @@ The table below provides a lookup table of standard violation categories. This i
 | Abandon, Boarded or Substandard Building | Abandoned Building; Blighted Building; Dilapidated Housing |
 | No Permit | No permit for electrical, gas, construction, plumbing ect |
 | Water Hazard | Storm Water; Water Leak; Sewer Leak 
-| Storm Water; Water Leak; Sewer Leak |
+| Storm Water | Water Leak; Sewer Leak |
 | Gas Hazard | Gas Leak, Illegal Gas Appliance |
 | Other | Other |
 
