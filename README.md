@@ -29,5 +29,5 @@ This is version 0.2.1 of the data standard.  The standard was originally authore
 
 
 ## Copyright Protection
-House Facts Data Standard by Rajiv Bhatia & Cyndy Commerford is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
+House Facts Data Standard by Rajiv Bhatia & Cyndy Comerford is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
